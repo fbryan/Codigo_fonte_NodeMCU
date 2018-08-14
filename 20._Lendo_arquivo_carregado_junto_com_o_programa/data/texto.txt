@@ -1,0 +1,2 @@
+Oi!
+Fui carregado pela IDE Arduino na memoria flash do NodeMCU!
